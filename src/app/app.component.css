@@ -1,0 +1,9 @@
+.box {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: 3px dotted black;
+    border-radius: 8px;
+    width: 50%;
+ }
